@@ -1,0 +1,112 @@
+{
+  "ratings": [
+    {
+      "timeOfRating": "05:00PM",
+      "dateOfRating": "12-12-2018",
+      "rating": 4,
+      "outletCode": "A101"
+    },
+    {
+      "timeOfRating": "04:00PM",
+      "dateOfRating": "13-12-2018",
+      "rating": 3,
+      "outletCode": "A101"
+    },
+    {
+      "timeOfRating": "06:00PM",
+      "dateOfRating": "15-12-2018",
+      "rating": 1,
+      "outletCode": "A101"
+    },
+    {
+      "timeOfRating": "05:00PM",
+      "dateOfRating": "12-12-2018",
+      "rating": 1,
+      "outletCode": "A101"
+    },
+    {
+      "timeOfRating": "09:00PM",
+      "dateOfRating": "01-12-2018",
+      "rating": 5,
+      "outletCode": "A101"
+    },
+    {
+      "timeOfRating": "06:00PM",
+      "dateOfRating": "17-12-2018",
+      "rating": 3,
+      "outletCode": "A101"
+    },
+    {
+      "timeOfRating": "05:00PM",
+      "dateOfRating": "05-12-2018",
+      "rating": 3,
+      "outletCode": "A101"
+    },
+    {
+      "timeOfRating": "05:00PM",
+      "dateOfRating": "06-12-2018",
+      "rating": 3,
+      "outletCode": "A101"
+    },
+    {
+      "timeOfRating": "05:00PM",
+      "dateOfRating": "11-12-2018",
+      "rating": 3,
+      "outletCode": "A101"
+    },
+    {
+      "timeOfRating": "05:00PM",
+      "dateOfRating": "12-12-2018",
+      "rating": 4,
+      "outletCode": "A102"
+    },
+    {
+      "timeOfRating": "04:00PM",
+      "dateOfRating": "13-12-2018",
+      "rating": 5,
+      "outletCode": "A102"
+    },
+    {
+      "timeOfRating": "06:00PM",
+      "dateOfRating": "15-12-2018",
+      "rating": 5,
+      "outletCode": "A102"
+    },
+    {
+      "timeOfRating": "05:00PM",
+      "dateOfRating": "12-12-2018",
+      "rating": 3,
+      "outletCode": "A102"
+    },
+    {
+      "timeOfRating": "09:00PM",
+      "dateOfRating": "01-12-2018",
+      "rating": 2,
+      "outletCode": "A102"
+    },
+    {
+      "timeOfRating": "06:00PM",
+      "dateOfRating": "17-12-2018",
+      "rating": 1,
+      "outletCode": "A102"
+    },
+    {
+      "timeOfRating": "05:00PM",
+      "dateOfRating": "05-12-2018",
+      "rating": 4,
+      "outletCode": "A102"
+    },
+    {
+      "timeOfRating": "05:00PM",
+      "dateOfRating": "06-12-2018",
+      "rating": 5,
+      "outletCode": "A102"
+    },
+    {
+      "timeOfRating": "05:00PM",
+      "dateOfRating": "11-12-2018",
+      "rating": 4,
+      "outletCode": "A102"
+    }
+  ]
+}
